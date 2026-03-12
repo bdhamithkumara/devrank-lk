@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T09:38:20.047648+00:00",
-  "total_users": 10,
+  "generated_at": "2026-03-12T10:21:25.573518+00:00",
+  "total_users": 11,
   "rankings": [
     {
       "login": "ktauchathuranga",
@@ -75,6 +75,30 @@
       "rank": 3
     },
     {
+      "login": "Pasindu-Jayasundara",
+      "name": "Pasindu Jayasundara ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/158612501?u=64d58581c9bbbbd1277d383b8418ee9ffbe48d78&v=4",
+      "bio": "",
+      "company": "",
+      "website": "",
+      "location": "Sri Lanka",
+      "followers": 13,
+      "commits_this_year": 410,
+      "prs_this_year": 51,
+      "issues_this_year": 10,
+      "total_stars": 25,
+      "public_repos": 88,
+      "repos_contributed_to": 39,
+      "top_languages": [
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "score": 1618,
+      "github_url": "https://github.com/Pasindu-Jayasundara",
+      "rank": 4
+    },
+    {
       "login": "dilushamadushan",
       "name": "Dilusha Madushan",
       "avatar_url": "https://avatars.githubusercontent.com/u/164498659?u=2b08829e82d22331e7e5c11f1d02b3ccba29b4cd&v=4",
@@ -96,7 +120,7 @@
       ],
       "score": 1590,
       "github_url": "https://github.com/dilushamadushan",
-      "rank": 4
+      "rank": 5
     },
     {
       "login": "pawanthathsara987",
@@ -120,7 +144,7 @@
       ],
       "score": 842,
       "github_url": "https://github.com/pawanthathsara987",
-      "rank": 5
+      "rank": 6
     },
     {
       "login": "ishansivmal",
@@ -144,7 +168,7 @@
       ],
       "score": 748,
       "github_url": "https://github.com/ishansivmal",
-      "rank": 6
+      "rank": 7
     },
     {
       "login": "chapayev0",
@@ -168,7 +192,7 @@
       ],
       "score": 422,
       "github_url": "https://github.com/chapayev0",
-      "rank": 7
+      "rank": 8
     },
     {
       "login": "SLUICEPRJCT",
@@ -190,7 +214,7 @@
       ],
       "score": 1,
       "github_url": "https://github.com/SLUICEPRJCT",
-      "rank": 8
+      "rank": 9
     },
     {
       "login": "prasadrandombage",
@@ -212,7 +236,7 @@
       ],
       "score": 0,
       "github_url": "https://github.com/prasadrandombage",
-      "rank": 9
+      "rank": 10
     },
     {
       "login": "mihos",
@@ -232,7 +256,7 @@
       "top_languages": [],
       "score": 0,
       "github_url": "https://github.com/mihos",
-      "rank": 10
+      "rank": 11
     }
   ]
 }

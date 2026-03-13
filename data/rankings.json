@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T06:26:37.737223+00:00",
-  "total_users": 15,
+  "generated_at": "2026-03-13T07:56:15.162053+00:00",
+  "total_users": 16,
   "rankings": [
     {
       "login": "sameerasw",
@@ -10,7 +10,7 @@
       "company": "@zone24x7",
       "website": "https://sameerasw.com",
       "location": "Sri Lanka",
-      "followers": 478,
+      "followers": 479,
       "commits_this_year": 6322,
       "prs_this_year": 241,
       "issues_this_year": 100,
@@ -22,7 +22,7 @@
         "Java",
         "Kotlin"
       ],
-      "score": 35525,
+      "score": 35526,
       "github_url": "https://github.com/sameerasw",
       "rank": 1
     },
@@ -243,6 +243,30 @@
       "rank": 10
     },
     {
+      "login": "Bl4ke100",
+      "name": "Blake",
+      "avatar_url": "https://avatars.githubusercontent.com/u/165447799?u=23c230a92e17af8e42e40ad5d00bf6935f965226&v=4",
+      "bio": "Ryan Gosling is literally me",
+      "company": "@Crimson-Script ",
+      "website": "",
+      "location": "",
+      "followers": 4,
+      "commits_this_year": 105,
+      "prs_this_year": 7,
+      "issues_this_year": 1,
+      "total_stars": 0,
+      "public_repos": 12,
+      "repos_contributed_to": 10,
+      "top_languages": [
+        "Java",
+        "HTML",
+        "TypeScript"
+      ],
+      "score": 356,
+      "github_url": "https://github.com/Bl4ke100",
+      "rank": 11
+    },
+    {
       "login": "abdrhxyii",
       "name": "Abdur Rahman",
       "avatar_url": "https://avatars.githubusercontent.com/u/108976320?u=d34624d9ae1a655af3b52fc985dce787268a2d46&v=4",
@@ -264,7 +288,7 @@
       ],
       "score": 171,
       "github_url": "https://github.com/abdrhxyii",
-      "rank": 11
+      "rank": 12
     },
     {
       "login": "Dhanushka11222",
@@ -286,7 +310,7 @@
       ],
       "score": 26,
       "github_url": "https://github.com/Dhanushka11222",
-      "rank": 12
+      "rank": 13
     },
     {
       "login": "SLUICEPRJCT",
@@ -308,7 +332,7 @@
       ],
       "score": 1,
       "github_url": "https://github.com/SLUICEPRJCT",
-      "rank": 13
+      "rank": 14
     },
     {
       "login": "prasadrandombage",
@@ -330,7 +354,7 @@
       ],
       "score": 0,
       "github_url": "https://github.com/prasadrandombage",
-      "rank": 14
+      "rank": 15
     },
     {
       "login": "mihos",
@@ -350,7 +374,7 @@
       "top_languages": [],
       "score": 0,
       "github_url": "https://github.com/mihos",
-      "rank": 15
+      "rank": 16
     }
   ]
 }

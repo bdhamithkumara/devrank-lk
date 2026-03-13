@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T04:18:30.736930+00:00",
-  "total_users": 14,
+  "generated_at": "2026-03-13T06:26:37.737223+00:00",
+  "total_users": 15,
   "rankings": [
     {
       "login": "sameerasw",
@@ -14,7 +14,7 @@
       "commits_this_year": 6322,
       "prs_this_year": 241,
       "issues_this_year": 100,
-      "total_stars": 3668,
+      "total_stars": 3669,
       "public_repos": 80,
       "repos_contributed_to": 42,
       "top_languages": [
@@ -22,7 +22,7 @@
         "Java",
         "Kotlin"
       ],
-      "score": 35521,
+      "score": 35525,
       "github_url": "https://github.com/sameerasw",
       "rank": 1
     },
@@ -58,7 +58,7 @@
       "company": "",
       "website": "https://www.linkedin.com/in/minoka-wickramasinghe-3b7198194/",
       "location": "Kegalle",
-      "followers": 23,
+      "followers": 24,
       "commits_this_year": 410,
       "prs_this_year": 37,
       "issues_this_year": 22,
@@ -70,7 +70,7 @@
         "HTML",
         "JavaScript"
       ],
-      "score": 1690,
+      "score": 1691,
       "github_url": "https://github.com/Minokainduwara",
       "rank": 3
     },
@@ -243,6 +243,30 @@
       "rank": 10
     },
     {
+      "login": "abdrhxyii",
+      "name": "Abdur Rahman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108976320?u=d34624d9ae1a655af3b52fc985dce787268a2d46&v=4",
+      "bio": "I'm a Senior Medusa.js Developer with 3 YOE in building and contributing to medusa.js applications.",
+      "company": "",
+      "website": "",
+      "location": "Sri Lanka",
+      "followers": 24,
+      "commits_this_year": 25,
+      "prs_this_year": 8,
+      "issues_this_year": 2,
+      "total_stars": 7,
+      "public_repos": 22,
+      "repos_contributed_to": 6,
+      "top_languages": [
+        "TypeScript",
+        "JavaScript",
+        "C#"
+      ],
+      "score": 171,
+      "github_url": "https://github.com/abdrhxyii",
+      "rank": 11
+    },
+    {
       "login": "Dhanushka11222",
       "name": "Dhanushka Maduranga",
       "avatar_url": "https://avatars.githubusercontent.com/u/138849605?u=00f446cb274bcbbbf2d5e40f3ac48198a032df53&v=4",
@@ -262,7 +286,7 @@
       ],
       "score": 26,
       "github_url": "https://github.com/Dhanushka11222",
-      "rank": 11
+      "rank": 12
     },
     {
       "login": "SLUICEPRJCT",
@@ -284,7 +308,7 @@
       ],
       "score": 1,
       "github_url": "https://github.com/SLUICEPRJCT",
-      "rank": 12
+      "rank": 13
     },
     {
       "login": "prasadrandombage",
@@ -306,7 +330,7 @@
       ],
       "score": 0,
       "github_url": "https://github.com/prasadrandombage",
-      "rank": 13
+      "rank": 14
     },
     {
       "login": "mihos",
@@ -326,7 +350,7 @@
       "top_languages": [],
       "score": 0,
       "github_url": "https://github.com/mihos",
-      "rank": 14
+      "rank": 15
     }
   ]
 }
